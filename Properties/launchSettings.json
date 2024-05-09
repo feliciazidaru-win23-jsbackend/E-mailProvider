@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "E_mailProvider": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7186",
+      "launchBrowser": false
+    }
+  }
+}
